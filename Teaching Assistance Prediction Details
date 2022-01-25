@@ -1,0 +1,4 @@
+### The Teaching Assistance performance prediction is a classification problem where the teachers are to classified according to their performance ratings.
+### It is a supervised machine learning problem.
+### In the notebook, I used various supervised classification algorithm for training and testing.
+### Finally selected the algorithm which gives higher accuracy score.
